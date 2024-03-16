@@ -1,0 +1,13 @@
+div.inhalt p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+div.inhalt h1 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+div.inhalt {
+    padding: 3px;
+    text-align: center;
+}
+html {
+    background-color: rgb(180, 236, 236);
+}
