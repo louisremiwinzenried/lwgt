@@ -11,3 +11,6 @@ div.inhalt {
 html {
     background-color: rgb(180, 236, 236);
 }
+div.inhalt a {
+    text-decoration: none;
+}
